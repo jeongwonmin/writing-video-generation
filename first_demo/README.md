@@ -1,6 +1,6 @@
 # 初めてのデモ
 黒板に横線を引く動画を作成してみました
-https://github.com/user-attachments/assets/5584f540-bbbd-4659-8a5c-a2f5656b09bc
+<video src="https://github.com/user-attachments/assets/5584f540-bbbd-4659-8a5c-a2f5656b09bc">
 
 ## やったこと
 - Geminiによる差分画像生成
