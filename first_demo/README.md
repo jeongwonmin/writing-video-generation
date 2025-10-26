@@ -8,8 +8,8 @@
   - 横線を引くまでの差分画像を複数枚生成
 - OpenCVによる作業: 線の作成 (**チョーク先の座標は自分で手動で取っているが本来は自動でやりたいところ**)
 - 動画作成サービスによる作業
-  - 画像をくっつけて動画に
-  - 動画のinterpolation
+  - 画像をくっつけて動画に: [clideo](https://clideo.com/ja/video-editor) で
+  - 動画のinterpolation: [Picwand](https://www.picwand.ai/enhance-video/live-frame-interpolation-free) で
 
 ## なぜこれをやったか（これからやりたいこと）
 - 基本的には、AIで「文字を書く動画」を作成したい
