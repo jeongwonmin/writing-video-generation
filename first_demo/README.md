@@ -1,4 +1,5 @@
 # 初めてのデモ
+黒板に横線を引く動画を作成してみました
 <video src="video_interpolated.mp4"></video>
 
 ## やったこと
