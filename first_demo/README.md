@@ -1,9 +1,6 @@
 # 初めてのデモ
 黒板に横線を引く動画を作成してみました
-<video width="640" controls>
-  <source src="./video_interpolated.mp4" type="video/mp4">
-  お使いのブラウザは動画タグに対応していません。
-</video>
+https://github.com/user-attachments/assets/5584f540-bbbd-4659-8a5c-a2f5656b09bc
 
 ## やったこと
 - Geminiによる差分画像生成
